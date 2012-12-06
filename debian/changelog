@@ -1,0 +1,5 @@
+indicator-bluetooth (0.0.1-0ubuntu1) raring; urgency=low
+
+  * Initial release
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Thu, 06 Dec 2012 16:04:48 +1300
