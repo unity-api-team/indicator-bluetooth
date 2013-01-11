@@ -1,3 +1,13 @@
+indicator-bluetooth (0.0.3-0ubuntu1) raring; urgency=low
+
+  * New upstream release:
+    - Fix service file having incorrect path
+    - Set useful values for accessible description
+  * debian/control:
+    - Use standards version 3.9.4
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Fri, 11 Jan 2013 14:09:33 +1300
+
 indicator-bluetooth (0.0.2-0ubuntu1) raring; urgency=low
 
   * New upstream release:
