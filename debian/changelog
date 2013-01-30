@@ -1,3 +1,14 @@
+indicator-bluetooth (0.0.4-0ubuntu1) raring; urgency=low
+
+  * New upstream release:
+    - Stop items being duplicated on resume from suspend
+  * debian/copyright:
+    - Fix lintian warnings
+  * debian/source/format:
+    - Use format 3.0
+
+ -- Robert Ancell <robert.ancell@canonical.com>  Thu, 31 Jan 2013 11:12:42 +1300
+
 indicator-bluetooth (0.0.3-0ubuntu1) raring; urgency=low
 
   * New upstream release:

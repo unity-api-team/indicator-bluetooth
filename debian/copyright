@@ -1,9 +1,8 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: indicator-bluetooth
-Source: http://launchpad.net/indicator-bluetooth
 
 Files: *
-Copyright: Canonical Ltd.
+Copyright: 2012 Canonical Ltd.
+License: GPL-3+
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
