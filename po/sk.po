@@ -7,48 +7,70 @@ msgid ""
 msgstr ""
 "Project-Id-Version: indicator-bluetooth\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-12-06 16:29+1300\n"
+"POT-Creation-Date: 2013-01-31 12:34-0500\n"
 "PO-Revision-Date: 2013-02-04 19:53+0000\n"
 "Last-Translator: Pavol Klačanský <pavol@klacansky.com>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-05 05:21+0000\n"
+"X-Launchpad-Export-Date: 2013-02-06 05:44+0000\n"
 "X-Generator: Launchpad (build 16468)\n"
 
-#: ../src/indicator-bluetooth-service.vala:48
-msgid "Enabled"
-msgstr "Povolený"
+#: ../src/indicator-bluetooth.vala:17
+#: ../src/indicator-bluetooth-service.vala:195
+msgid "Bluetooth: On"
+msgstr ""
 
-#: ../src/indicator-bluetooth-service.vala:62
+#: ../src/indicator-bluetooth-service.vala:47
+#: ../src/indicator-bluetooth-service.vala:385
+msgid "Bluetooth"
+msgstr ""
+
+#: ../src/indicator-bluetooth-service.vala:61
 msgid "Visible"
 msgstr "Viditeľný"
 
-#: ../src/indicator-bluetooth-service.vala:111
-msgid "Bluetooth Settings..."
+#: ../src/indicator-bluetooth-service.vala:110
+msgid "Bluetooth Settings…"
 msgstr ""
 
-#: ../src/indicator-bluetooth-service.vala:253
+#: ../src/indicator-bluetooth-service.vala:195
+msgid "Bluetooth: Off"
+msgstr ""
+
+#: ../src/indicator-bluetooth-service.vala:254
 msgid "Connection"
 msgstr "Pripojenie"
 
-#: ../src/indicator-bluetooth-service.vala:276
-msgid "Send files..."
-msgstr "Odoslať súbory…"
-
-#: ../src/indicator-bluetooth-service.vala:284
-msgid "Browse files..."
-msgstr "Prehliadať súbory…"
-
-#: ../src/indicator-bluetooth-service.vala:293
-msgid "Keyboard Settings..."
+#: ../src/indicator-bluetooth-service.vala:277
+msgid "Send files…"
 msgstr ""
 
-#: ../src/indicator-bluetooth-service.vala:301
-msgid "Mouse and Touchpad Settings..."
+#: ../src/indicator-bluetooth-service.vala:285
+msgid "Browse files…"
 msgstr ""
 
-#: ../src/indicator-bluetooth-service.vala:310
-msgid "Sound Settings..."
-msgstr "Nastavenia zvuku…"
+#: ../src/indicator-bluetooth-service.vala:294
+msgid "Keyboard Settings…"
+msgstr ""
+
+#: ../src/indicator-bluetooth-service.vala:302
+msgid "Mouse and Touchpad Settings…"
+msgstr ""
+
+#: ../src/indicator-bluetooth-service.vala:311
+msgid "Sound Settings…"
+msgstr ""
+
+#~ msgid "Enabled"
+#~ msgstr "Povolený"
+
+#~ msgid "Send files..."
+#~ msgstr "Odoslať súbory…"
+
+#~ msgid "Browse files..."
+#~ msgstr "Prehliadať súbory…"
+
+#~ msgid "Sound Settings..."
+#~ msgstr "Nastavenia zvuku…"
