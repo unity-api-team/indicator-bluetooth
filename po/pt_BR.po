@@ -1,0 +1,72 @@
+# Brazilian Portuguese translation for indicator-bluetooth
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the indicator-bluetooth package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-bluetooth\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-02-08 11:56+1300\n"
+"PO-Revision-Date: 2013-03-02 18:40+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-03-03 05:21+0000\n"
+"X-Generator: Launchpad (build 16514)\n"
+
+#: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
+msgid "Whether or not to show the bluetooth indicator in the menu bar."
+msgstr "Mostrar ou não o indicador de bluetooth na barra de menu."
+
+#: ../src/indicator-bluetooth.vala:17
+#: ../src/indicator-bluetooth-service.vala:231
+msgid "Bluetooth: On"
+msgstr "Bluetooth: Ligado"
+
+#: ../src/indicator-bluetooth-service.vala:54
+#: ../src/indicator-bluetooth-service.vala:438
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../src/indicator-bluetooth-service.vala:68
+msgid "Visible"
+msgstr "Visível"
+
+#: ../src/indicator-bluetooth-service.vala:117
+msgid "Set Up New Device…"
+msgstr "Configurar um novo dispositivo..."
+
+#: ../src/indicator-bluetooth-service.vala:122
+msgid "Bluetooth Settings…"
+msgstr "Configurações do Bluetooth..."
+
+#: ../src/indicator-bluetooth-service.vala:231
+msgid "Bluetooth: Off"
+msgstr "Bluetooth: desligado"
+
+#: ../src/indicator-bluetooth-service.vala:290
+msgid "Connection"
+msgstr "Conexão"
+
+#: ../src/indicator-bluetooth-service.vala:313
+msgid "Send files…"
+msgstr "Enviar arquivos..."
+
+#: ../src/indicator-bluetooth-service.vala:321
+msgid "Browse files…"
+msgstr "Navegar arquivos..."
+
+#: ../src/indicator-bluetooth-service.vala:330
+msgid "Keyboard Settings…"
+msgstr "Configurações de teclado..."
+
+#: ../src/indicator-bluetooth-service.vala:338
+msgid "Mouse and Touchpad Settings…"
+msgstr "Configurações de mouse e touchpad..."
+
+#: ../src/indicator-bluetooth-service.vala:347
+msgid "Sound Settings…"
+msgstr "Configurações de som..."
