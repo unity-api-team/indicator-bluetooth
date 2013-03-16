@@ -14,50 +14,50 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-06 06:20+0000\n"
-"X-Generator: Launchpad (build 16514)\n"
+"X-Launchpad-Export-Date: 2013-03-16 06:33+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
-msgstr ""
+msgstr "Да ли да приказујем блутут показивач у изборнику."
 
 #: ../src/indicator-bluetooth.vala:17
 #: ../src/indicator-bluetooth-service.vala:231
 msgid "Bluetooth: On"
-msgstr ""
+msgstr "Блутут: укључен"
 
 #: ../src/indicator-bluetooth-service.vala:54
 #: ../src/indicator-bluetooth-service.vala:438
 msgid "Bluetooth"
-msgstr ""
+msgstr "Блутут"
 
 #: ../src/indicator-bluetooth-service.vala:68
 msgid "Visible"
-msgstr ""
+msgstr "Видљив"
 
 #: ../src/indicator-bluetooth-service.vala:117
 msgid "Set Up New Device…"
-msgstr ""
+msgstr "Подеси нови уређај..."
 
 #: ../src/indicator-bluetooth-service.vala:122
 msgid "Bluetooth Settings…"
-msgstr ""
+msgstr "Подешавања Блутута..."
 
 #: ../src/indicator-bluetooth-service.vala:231
 msgid "Bluetooth: Off"
-msgstr ""
+msgstr "Блутут: искључен"
 
 #: ../src/indicator-bluetooth-service.vala:290
 msgid "Connection"
-msgstr ""
+msgstr "Веза"
 
 #: ../src/indicator-bluetooth-service.vala:313
 msgid "Send files…"
-msgstr ""
+msgstr "Пошаљи датотеке…"
 
 #: ../src/indicator-bluetooth-service.vala:321
 msgid "Browse files…"
-msgstr ""
+msgstr "Прегледај датотеке…"
 
 #: ../src/indicator-bluetooth-service.vala:330
 msgid "Keyboard Settings…"
@@ -65,7 +65,7 @@ msgstr "Поставке тастатуре…"
 
 #: ../src/indicator-bluetooth-service.vala:338
 msgid "Mouse and Touchpad Settings…"
-msgstr ""
+msgstr "Поставке миша и додирне плочице…"
 
 #: ../src/indicator-bluetooth-service.vala:347
 msgid "Sound Settings…"

@@ -14,59 +14,60 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-04 05:58+0000\n"
-"X-Generator: Launchpad (build 16514)\n"
+"X-Launchpad-Export-Date: 2013-03-16 06:33+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
 msgstr ""
+"Indica se mostrare oppure no l'indicatore bluetooth nella barra dei menù."
 
 #: ../src/indicator-bluetooth.vala:17
 #: ../src/indicator-bluetooth-service.vala:231
 msgid "Bluetooth: On"
-msgstr ""
+msgstr "Bluetooth: acceso"
 
 #: ../src/indicator-bluetooth-service.vala:54
 #: ../src/indicator-bluetooth-service.vala:438
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: ../src/indicator-bluetooth-service.vala:68
 msgid "Visible"
-msgstr ""
+msgstr "Visibile"
 
 #: ../src/indicator-bluetooth-service.vala:117
 msgid "Set Up New Device…"
-msgstr ""
+msgstr "Imposta nuovo dispositivo..."
 
 #: ../src/indicator-bluetooth-service.vala:122
 msgid "Bluetooth Settings…"
-msgstr ""
+msgstr "Impostazioni Bluetooth..."
 
 #: ../src/indicator-bluetooth-service.vala:231
 msgid "Bluetooth: Off"
-msgstr ""
+msgstr "Bluetooth: spento"
 
 #: ../src/indicator-bluetooth-service.vala:290
 msgid "Connection"
-msgstr ""
+msgstr "Connessione"
 
 #: ../src/indicator-bluetooth-service.vala:313
 msgid "Send files…"
-msgstr ""
+msgstr "Invia file..."
 
 #: ../src/indicator-bluetooth-service.vala:321
 msgid "Browse files…"
-msgstr ""
+msgstr "Esplora file..."
 
 #: ../src/indicator-bluetooth-service.vala:330
 msgid "Keyboard Settings…"
-msgstr ""
+msgstr "Impostazioni tastiera..."
 
 #: ../src/indicator-bluetooth-service.vala:338
 msgid "Mouse and Touchpad Settings…"
-msgstr ""
+msgstr "Impostazioni mouse e touchpad..."
 
 #: ../src/indicator-bluetooth-service.vala:347
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Impostazioni audio..."

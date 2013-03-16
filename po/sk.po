@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-14 05:34+0000\n"
-"X-Generator: Launchpad (build 16491)\n"
+"X-Launchpad-Export-Date: 2013-03-16 06:33+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
@@ -53,20 +53,20 @@ msgstr "Pripojenie"
 
 #: ../src/indicator-bluetooth-service.vala:313
 msgid "Send files…"
-msgstr ""
+msgstr "Odoslať súbory…"
 
 #: ../src/indicator-bluetooth-service.vala:321
 msgid "Browse files…"
-msgstr ""
+msgstr "Prehliadať súbory…"
 
 #: ../src/indicator-bluetooth-service.vala:330
 msgid "Keyboard Settings…"
-msgstr ""
+msgstr "Nastavenia klávesnice…"
 
 #: ../src/indicator-bluetooth-service.vala:338
 msgid "Mouse and Touchpad Settings…"
-msgstr ""
+msgstr "Nastavenia myši a touchpadu…"
 
 #: ../src/indicator-bluetooth-service.vala:347
 msgid "Sound Settings…"
-msgstr ""
+msgstr "Nastavenia zvuku…"

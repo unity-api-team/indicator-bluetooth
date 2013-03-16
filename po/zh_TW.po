@@ -14,22 +14,22 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-04 05:58+0000\n"
-"X-Generator: Launchpad (build 16514)\n"
+"X-Launchpad-Export-Date: 2013-03-16 06:34+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
-msgstr ""
+msgstr "是否在選單列上顯示藍牙指示器。"
 
 #: ../src/indicator-bluetooth.vala:17
 #: ../src/indicator-bluetooth-service.vala:231
 msgid "Bluetooth: On"
-msgstr ""
+msgstr "藍牙：開啟"
 
 #: ../src/indicator-bluetooth-service.vala:54
 #: ../src/indicator-bluetooth-service.vala:438
 msgid "Bluetooth"
-msgstr ""
+msgstr "藍牙"
 
 #: ../src/indicator-bluetooth-service.vala:68
 msgid "Visible"
@@ -37,15 +37,15 @@ msgstr ""
 
 #: ../src/indicator-bluetooth-service.vala:117
 msgid "Set Up New Device…"
-msgstr ""
+msgstr "設定新的裝置…"
 
 #: ../src/indicator-bluetooth-service.vala:122
 msgid "Bluetooth Settings…"
-msgstr ""
+msgstr "藍牙設定值..."
 
 #: ../src/indicator-bluetooth-service.vala:231
 msgid "Bluetooth: Off"
-msgstr ""
+msgstr "藍牙：關閉"
 
 #: ../src/indicator-bluetooth-service.vala:290
 msgid "Connection"
@@ -53,11 +53,11 @@ msgstr ""
 
 #: ../src/indicator-bluetooth-service.vala:313
 msgid "Send files…"
-msgstr ""
+msgstr "傳送檔案..."
 
 #: ../src/indicator-bluetooth-service.vala:321
 msgid "Browse files…"
-msgstr ""
+msgstr "瀏覽檔案..."
 
 #: ../src/indicator-bluetooth-service.vala:330
 msgid "Keyboard Settings…"
