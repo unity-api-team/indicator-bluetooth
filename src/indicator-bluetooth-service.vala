@@ -186,7 +186,12 @@ public class BluetoothIndicator
 
     private void update_visible ()
     {
-        bluetooth_service._visible = client.adapter_model.iter_n_children (null) > 0 && settings.get_boolean ("visible");
+        /* Show if:
+         * - There are bluetooth devices
+         * - Bluetooth is disabled (for some hardware this means there are no devices reported but we should assume there are if it is disabled)
+         * - It has been enabled in settings
+         */
+        bluetooth_service._visible = (client.adapter_model.iter_n_children (null) > 0 || killswitch.state != GnomeBluetooth.KillswitchState.UNBLOCKED) && settings.get_boolean ("visible");
         var builder = new VariantBuilder (VariantType.ARRAY);
         builder.add ("{sv}", "Visible", new Variant.boolean (bluetooth_service._visible));
         try
