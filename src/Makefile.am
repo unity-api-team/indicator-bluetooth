@@ -17,10 +17,14 @@ indicator_bluetooth_service_VALAFLAGS = \
 indicator_bluetooth_service_CFLAGS = \
 	-DGETTEXT_PACKAGE=\"$(GETTEXT_PACKAGE)\" \
 	-DLOCALE_DIR=\"$(datadir)/locale\" \
-	$(INDICATOR_BLUETOOTH_SERVICE_CFLAGS)
+	$(INDICATOR_BLUETOOTH_SERVICE_CFLAGS) \
+	$(COVERAGE_CFLAGS)
 
 indicator_bluetooth_service_LDADD = \
 	$(INDICATOR_BLUETOOTH_SERVICE_LIBS)
+
+indicator_bluetooth_service_LDFLAGS = \
+	$(COVERAGE_LDFLAGS)
 
 libbluetooth_la_SOURCES = 	\
 	config.vapi \
@@ -37,13 +41,15 @@ libbluetooth_la_VALAFLAGS = \
 
 libbluetooth_la_CFLAGS = \
 	-DGETTEXT_PACKAGE=\"$(GETTEXT_PACKAGE)\" \
-	$(INDICATOR_BLUETOOTH_CFLAGS)
+	$(INDICATOR_BLUETOOTH_CFLAGS) \
+	$(COVERAGE_CFLAGS)
 
 libbluetooth_la_LIBADD = \
 	$(INDICATOR_BLUETOOTH_LIBS)
 
 libbluetooth_la_LDFLAGS = \
-	-module -avoid-version
+	-module -avoid-version \
+	$(COVERAGE_LDFLAGS)
 
 CLEANFILES = \
 	$(patsubst %.vala,%.c,$(filter %.vala, $(SOURCES))) \
