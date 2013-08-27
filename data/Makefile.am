@@ -3,11 +3,11 @@
 indicatorsdir = $(datadir)/unity/indicators
 dist_indicators_DATA = com.canonical.indicator.bluetooth
 
-# the dbus service file
-dbus_servicesdir = $(datadir)/dbus-1/services
-dbus_services_DATA = indicator-bluetooth.service
+# the upstart job file
+upstart_jobsdir = $(datadir)/upstart/sessions
+upstart_jobs_DATA = indicator-bluetooth.conf
 
-%.service: %.service.in
+%.conf: %.conf.in
 	sed -e "s|\@pkglibexecdir\@|$(pkglibexecdir)|" $< > $@
 
 gsettings_SCHEMAS = com.canonical.indicator.bluetooth.gschema.xml
@@ -19,5 +19,5 @@ EXTRA_DIST = \
   com.canonical.indicator.bluetooth.gschema.xml.in
 
 CLEANFILES = \
-  $(dbus_services_DATA) \
+  $(upstart_jobs_DATA) \
   $(gsettings_SCHEMAS)
