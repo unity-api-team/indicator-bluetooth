@@ -7,66 +7,69 @@ msgid ""
 msgstr ""
 "Project-Id-Version: indicator-bluetooth\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-02-08 11:56+1300\n"
+"POT-Creation-Date: 2013-10-02 15:16+0000\n"
 "PO-Revision-Date: 2013-02-11 23:11+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-16 06:34+0000\n"
-"X-Generator: Launchpad (build 16532)\n"
+"X-Launchpad-Export-Date: 2013-10-03 05:55+0000\n"
+"X-Generator: Launchpad (build 16791)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
 msgstr "Mostrar u ocultar el indicador de Bluetooth en la barra de menús."
 
-#: ../src/indicator-bluetooth.vala:17
-#: ../src/indicator-bluetooth-service.vala:231
-msgid "Bluetooth: On"
-msgstr "Bluetooth: Encendido"
+#: ../src/bluez.vala:320
+msgid "Unknown"
+msgstr ""
 
-#: ../src/indicator-bluetooth-service.vala:54
-#: ../src/indicator-bluetooth-service.vala:438
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-#: ../src/indicator-bluetooth-service.vala:68
-msgid "Visible"
-msgstr "Visible"
-
-#: ../src/indicator-bluetooth-service.vala:117
-msgid "Set Up New Device…"
-msgstr "Configurar un dispositivo nuevo…"
-
-#: ../src/indicator-bluetooth-service.vala:122
-msgid "Bluetooth Settings…"
-msgstr "Configuración de Bluetooth…"
-
-#: ../src/indicator-bluetooth-service.vala:231
-msgid "Bluetooth: Off"
-msgstr "Bluetooth: Apagado"
-
-#: ../src/indicator-bluetooth-service.vala:290
+#: ../src/desktop.vala:96
 msgid "Connection"
 msgstr "Conexión"
 
-#: ../src/indicator-bluetooth-service.vala:313
-msgid "Send files…"
-msgstr "Enviar archivos…"
-
-#: ../src/indicator-bluetooth-service.vala:321
+#: ../src/desktop.vala:140
 msgid "Browse files…"
 msgstr "Examinar archivos…"
 
-#: ../src/indicator-bluetooth-service.vala:330
+#: ../src/desktop.vala:144
+msgid "Send files…"
+msgstr "Enviar archivos…"
+
+#: ../src/desktop.vala:150
 msgid "Keyboard Settings…"
 msgstr "Configuración del teclado…"
 
-#: ../src/indicator-bluetooth-service.vala:338
+#: ../src/desktop.vala:156
 msgid "Mouse and Touchpad Settings…"
 msgstr "Configuración del teclado y touchpad…"
 
-#: ../src/indicator-bluetooth-service.vala:347
+#: ../src/desktop.vala:163
 msgid "Sound Settings…"
 msgstr "Configuración de sonido…"
+
+#: ../src/desktop.vala:200
+msgid "Set Up New Device…"
+msgstr "Configurar un dispositivo nuevo…"
+
+#: ../src/desktop.vala:202
+msgid "Bluetooth Settings…"
+msgstr "Configuración de Bluetooth…"
+
+#: ../src/phone.vala:42
+msgid "Bluetooth settings…"
+msgstr ""
+
+#: ../src/profile.vala:157
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#~ msgid "Visible"
+#~ msgstr "Visible"
+
+#~ msgid "Bluetooth: On"
+#~ msgstr "Bluetooth: encendido"
+
+#~ msgid "Bluetooth: Off"
+#~ msgstr "Bluetooth: apagado"

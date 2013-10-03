@@ -7,66 +7,69 @@ msgid ""
 msgstr ""
 "Project-Id-Version: indicator-bluetooth\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-02-08 11:56+1300\n"
+"POT-Creation-Date: 2013-10-02 15:16+0000\n"
 "PO-Revision-Date: 2013-05-04 09:03+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hindi <hi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-05 06:03+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-10-03 05:55+0000\n"
+"X-Generator: Launchpad (build 16791)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
 msgstr "मेनू पट्टी में ब्लूटूथ सूचक दिखाई जाए या नहीं."
 
-#: ../src/indicator-bluetooth.vala:17
-#: ../src/indicator-bluetooth-service.vala:231
-msgid "Bluetooth: On"
-msgstr "ब्लूटूथ: चालू"
-
-#: ../src/indicator-bluetooth-service.vala:54
-#: ../src/indicator-bluetooth-service.vala:438
-msgid "Bluetooth"
-msgstr "ब्लूटूथ"
-
-#: ../src/indicator-bluetooth-service.vala:68
-msgid "Visible"
+#: ../src/bluez.vala:320
+msgid "Unknown"
 msgstr ""
 
-#: ../src/indicator-bluetooth-service.vala:117
-msgid "Set Up New Device…"
-msgstr "नई डिवाइस सेटअप करें ..."
-
-#: ../src/indicator-bluetooth-service.vala:122
-msgid "Bluetooth Settings…"
-msgstr "ब्लूटूथ सेटिंग्स..."
-
-#: ../src/indicator-bluetooth-service.vala:231
-msgid "Bluetooth: Off"
-msgstr "ब्लूटूथ: बंद"
-
-#: ../src/indicator-bluetooth-service.vala:290
+#: ../src/desktop.vala:96
 msgid "Connection"
 msgstr "कनेक्शन"
 
-#: ../src/indicator-bluetooth-service.vala:313
-msgid "Send files…"
-msgstr "फ़ाइल भेजें..."
-
-#: ../src/indicator-bluetooth-service.vala:321
+#: ../src/desktop.vala:140
 msgid "Browse files…"
 msgstr "फ़ाइलों को ब्राउज़ करें..."
 
-#: ../src/indicator-bluetooth-service.vala:330
+#: ../src/desktop.vala:144
+msgid "Send files…"
+msgstr "फ़ाइल भेजें..."
+
+#: ../src/desktop.vala:150
 msgid "Keyboard Settings…"
 msgstr "कुंजीपटल सेटिंग्स..."
 
-#: ../src/indicator-bluetooth-service.vala:338
+#: ../src/desktop.vala:156
 msgid "Mouse and Touchpad Settings…"
 msgstr "माउस और टचपैड सेटिंग..."
 
-#: ../src/indicator-bluetooth-service.vala:347
+#: ../src/desktop.vala:163
 msgid "Sound Settings…"
 msgstr "ध्वनि सेटिंग्स..."
+
+#: ../src/desktop.vala:200
+msgid "Set Up New Device…"
+msgstr "नई डिवाइस सेटअप करें ..."
+
+#: ../src/desktop.vala:202
+msgid "Bluetooth Settings…"
+msgstr "ब्लूटूथ सेटिंग्स..."
+
+#: ../src/phone.vala:42
+msgid "Bluetooth settings…"
+msgstr ""
+
+#: ../src/profile.vala:157
+msgid "Bluetooth"
+msgstr "ब्लूटूथ"
+
+#~ msgid "Bluetooth: Off"
+#~ msgstr "ब्लूटूथ: बंद"
+
+#~ msgid "Bluetooth: On"
+#~ msgstr "ब्लूटूथ: चालू"
+
+#~ msgid "Visible"
+#~ msgstr "प्रत्यक्ष"

@@ -7,66 +7,69 @@ msgid ""
 msgstr ""
 "Project-Id-Version: indicator-bluetooth\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-02-08 11:56+1300\n"
+"POT-Creation-Date: 2013-10-02 15:16+0000\n"
 "PO-Revision-Date: 2013-05-02 17:41+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Norwegian Nynorsk <nn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-03 06:28+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-10-03 05:55+0000\n"
+"X-Generator: Launchpad (build 16791)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
 msgstr "Om blåtannsymbolet skal visast på menylinja."
 
-#: ../src/indicator-bluetooth.vala:17
-#: ../src/indicator-bluetooth-service.vala:231
-msgid "Bluetooth: On"
-msgstr "Blåtann: På"
+#: ../src/bluez.vala:320
+msgid "Unknown"
+msgstr ""
 
-#: ../src/indicator-bluetooth-service.vala:54
-#: ../src/indicator-bluetooth-service.vala:438
-msgid "Bluetooth"
-msgstr "Blåtann"
-
-#: ../src/indicator-bluetooth-service.vala:68
-msgid "Visible"
-msgstr "Synleg"
-
-#: ../src/indicator-bluetooth-service.vala:117
-msgid "Set Up New Device…"
-msgstr "Set opp ny eining …"
-
-#: ../src/indicator-bluetooth-service.vala:122
-msgid "Bluetooth Settings…"
-msgstr "Innstillingar for blåtann …"
-
-#: ../src/indicator-bluetooth-service.vala:231
-msgid "Bluetooth: Off"
-msgstr "Blåtann: Av"
-
-#: ../src/indicator-bluetooth-service.vala:290
+#: ../src/desktop.vala:96
 msgid "Connection"
 msgstr "Tilkopling"
 
-#: ../src/indicator-bluetooth-service.vala:313
-msgid "Send files…"
-msgstr "Send filer …"
-
-#: ../src/indicator-bluetooth-service.vala:321
+#: ../src/desktop.vala:140
 msgid "Browse files…"
 msgstr "Bla i filer …"
 
-#: ../src/indicator-bluetooth-service.vala:330
+#: ../src/desktop.vala:144
+msgid "Send files…"
+msgstr "Send filer …"
+
+#: ../src/desktop.vala:150
 msgid "Keyboard Settings…"
 msgstr "Innstillingar for tastatur …"
 
-#: ../src/indicator-bluetooth-service.vala:338
+#: ../src/desktop.vala:156
 msgid "Mouse and Touchpad Settings…"
 msgstr "Innstillingar for mus og styreplate …"
 
-#: ../src/indicator-bluetooth-service.vala:347
+#: ../src/desktop.vala:163
 msgid "Sound Settings…"
 msgstr "Lydinnstillingar"
+
+#: ../src/desktop.vala:200
+msgid "Set Up New Device…"
+msgstr "Set opp ny eining …"
+
+#: ../src/desktop.vala:202
+msgid "Bluetooth Settings…"
+msgstr "Innstillingar for blåtann …"
+
+#: ../src/phone.vala:42
+msgid "Bluetooth settings…"
+msgstr ""
+
+#: ../src/profile.vala:157
+msgid "Bluetooth"
+msgstr "Blåtann"
+
+#~ msgid "Visible"
+#~ msgstr "Synleg"
+
+#~ msgid "Bluetooth: On"
+#~ msgstr "Blåtann: På"
+
+#~ msgid "Bluetooth: Off"
+#~ msgstr "Blåtann: Av"
