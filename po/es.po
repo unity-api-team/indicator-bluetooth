@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: indicator-bluetooth\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-10-02 15:16+0000\n"
+"POT-Creation-Date: 2013-10-03 22:30+0000\n"
 "PO-Revision-Date: 2013-02-11 23:11+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-03 05:55+0000\n"
+"X-Launchpad-Export-Date: 2013-10-04 05:44+0000\n"
 "X-Generator: Launchpad (build 16791)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
@@ -23,7 +23,7 @@ msgstr "Mostrar u ocultar el indicador de Bluetooth en la barra de menús."
 
 #: ../src/bluez.vala:320
 msgid "Unknown"
-msgstr ""
+msgstr "Desconocido"
 
 #: ../src/desktop.vala:96
 msgid "Connection"
@@ -59,7 +59,7 @@ msgstr "Configuración de Bluetooth…"
 
 #: ../src/phone.vala:42
 msgid "Bluetooth settings…"
-msgstr ""
+msgstr "Configuración de Bluetooth…"
 
 #: ../src/profile.vala:157
 msgid "Bluetooth"
