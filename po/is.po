@@ -7,61 +7,61 @@ msgid ""
 msgstr ""
 "Project-Id-Version: indicator-bluetooth\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-10-04 10:31+0000\n"
+"POT-Creation-Date: 2013-10-10 21:24+0000\n"
 "PO-Revision-Date: 2013-07-14 02:26+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Icelandic <is@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-05 06:15+0000\n"
-"X-Generator: Launchpad (build 16791)\n"
+"X-Launchpad-Export-Date: 2013-10-11 05:28+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
 msgstr "Hvort það á að sýna bluetooth teiknið í valmyndar stikunni"
 
-#: ../src/bluez.vala:320
+#: ../src/bluez.vala:322
 msgid "Unknown"
 msgstr ""
 
-#: ../src/desktop.vala:96
+#: ../src/desktop.vala:97
 msgid "Connection"
 msgstr "Tenging"
 
-#: ../src/desktop.vala:140
+#: ../src/desktop.vala:141
 msgid "Browse files…"
 msgstr "Kanna skrár..."
 
-#: ../src/desktop.vala:144
+#: ../src/desktop.vala:145
 msgid "Send files…"
 msgstr "Senda skrár..."
 
-#: ../src/desktop.vala:150
+#: ../src/desktop.vala:151
 msgid "Keyboard Settings…"
 msgstr "Lyklaborðs Stillingar..."
 
-#: ../src/desktop.vala:156
+#: ../src/desktop.vala:157
 msgid "Mouse and Touchpad Settings…"
 msgstr "Músar og Snertispjalds Stillingar..."
 
-#: ../src/desktop.vala:163
+#: ../src/desktop.vala:164
 msgid "Sound Settings…"
 msgstr "Hljóð Stillingar..."
 
-#: ../src/desktop.vala:200
+#: ../src/desktop.vala:201
 msgid "Set Up New Device…"
 msgstr "Tengja Nýtt Tæki..."
 
-#: ../src/desktop.vala:202
+#: ../src/desktop.vala:203
 msgid "Bluetooth Settings…"
 msgstr "Bluetooth Stillingar..."
 
-#: ../src/phone.vala:42
+#: ../src/phone.vala:43
 msgid "Bluetooth settings…"
 msgstr ""
 
-#: ../src/profile.vala:157
+#: ../src/profile.vala:169
 msgid "Bluetooth"
 msgstr "Bluetooth"
 

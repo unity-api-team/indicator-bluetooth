@@ -7,61 +7,61 @@ msgid ""
 msgstr ""
 "Project-Id-Version: indicator-bluetooth\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-10-04 10:31+0000\n"
+"POT-Creation-Date: 2013-10-10 21:24+0000\n"
 "PO-Revision-Date: 2013-03-03 20:17+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Galician <gl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-05 06:15+0000\n"
-"X-Generator: Launchpad (build 16791)\n"
+"X-Launchpad-Export-Date: 2013-10-11 05:28+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
 msgstr "Indica se se debe mostrar o indicador de bluetooth na barra de menú."
 
-#: ../src/bluez.vala:320
+#: ../src/bluez.vala:322
 msgid "Unknown"
 msgstr "Descoñecido"
 
-#: ../src/desktop.vala:96
+#: ../src/desktop.vala:97
 msgid "Connection"
 msgstr "Conexión"
 
-#: ../src/desktop.vala:140
+#: ../src/desktop.vala:141
 msgid "Browse files…"
 msgstr "Examinar os ficheiros..."
 
-#: ../src/desktop.vala:144
+#: ../src/desktop.vala:145
 msgid "Send files…"
 msgstr "Enviar ficheiros..."
 
-#: ../src/desktop.vala:150
+#: ../src/desktop.vala:151
 msgid "Keyboard Settings…"
 msgstr "Preferencias do teclado…"
 
-#: ../src/desktop.vala:156
+#: ../src/desktop.vala:157
 msgid "Mouse and Touchpad Settings…"
 msgstr "Preferencias do rato e área táctil…"
 
-#: ../src/desktop.vala:163
+#: ../src/desktop.vala:164
 msgid "Sound Settings…"
 msgstr "Preferencias do son..."
 
-#: ../src/desktop.vala:200
+#: ../src/desktop.vala:201
 msgid "Set Up New Device…"
 msgstr "Configurar un dispositivo novo..."
 
-#: ../src/desktop.vala:202
+#: ../src/desktop.vala:203
 msgid "Bluetooth Settings…"
 msgstr "Configuración de Bluetooth..."
 
-#: ../src/phone.vala:42
+#: ../src/phone.vala:43
 msgid "Bluetooth settings…"
 msgstr "Preferencias de Bluetooth..."
 
-#: ../src/profile.vala:157
+#: ../src/profile.vala:169
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
