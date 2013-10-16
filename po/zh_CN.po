@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: indicator-bluetooth\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-10-11 10:22+0000\n"
+"POT-Creation-Date: 2013-10-15 16:15+0000\n"
 "PO-Revision-Date: 2013-03-06 16:13+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-12 05:53+0000\n"
+"X-Launchpad-Export-Date: 2013-10-16 05:12+0000\n"
 "X-Generator: Launchpad (build 16799)\n"
 
 #: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
 msgid "Whether or not to show the bluetooth indicator in the menu bar."
 msgstr "菜单栏中是否显示蓝牙指示器。"
 
-#: ../src/bluez.vala:322
+#: ../src/bluez.vala:379
 msgid "Unknown"
 msgstr "未知"
 
@@ -61,7 +61,7 @@ msgstr "蓝牙设置..."
 msgid "Bluetooth settings…"
 msgstr "蓝牙设置..."
 
-#: ../src/profile.vala:169
+#: ../src/profile.vala:166
 msgid "Bluetooth"
 msgstr "蓝牙"
 
