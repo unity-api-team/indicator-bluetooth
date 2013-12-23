@@ -1,0 +1,67 @@
+# Malayalam translation for indicator-bluetooth
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the indicator-bluetooth package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-bluetooth\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-10-16 10:35+0000\n"
+"PO-Revision-Date: 2013-12-22 06:01+0000\n"
+"Last-Translator: STyM Alfazz <Unknown>\n"
+"Language-Team: Malayalam <ml@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-23 05:47+0000\n"
+"X-Generator: Launchpad (build 16872)\n"
+
+#: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
+msgid "Whether or not to show the bluetooth indicator in the menu bar."
+msgstr "ബ്ലൂടൂത്ത് സൂചകം മെനുബാറില്‍ ദൃശ്യമാക്കണോ വേണ്ടയോ എന്ന്."
+
+#: ../src/bluez.vala:379
+msgid "Unknown"
+msgstr "അജ്ഞാതം"
+
+#: ../src/desktop.vala:97
+msgid "Connection"
+msgstr "ബന്ധം"
+
+#: ../src/desktop.vala:141
+msgid "Browse files…"
+msgstr "ഫയലുകള്‍ ബ്രൗസ് ചെയ്യുക..."
+
+#: ../src/desktop.vala:145
+msgid "Send files…"
+msgstr "ഫയലുകള്‍ അയക്കുക..."
+
+#: ../src/desktop.vala:151
+msgid "Keyboard Settings…"
+msgstr "കീബോഡ് സജ്ജീകരണങ്ങള്‍..."
+
+#: ../src/desktop.vala:157
+msgid "Mouse and Touchpad Settings…"
+msgstr "മൗസ് ടച്ച്പാഡ് സജ്ജീകരണങ്ങള്‍..."
+
+#: ../src/desktop.vala:164
+msgid "Sound Settings…"
+msgstr "ശബ്ദ സജ്ജീകരണങ്ങള്‍..."
+
+#. settings section
+#: ../src/desktop.vala:201
+msgid "Set Up New Device…"
+msgstr "ഒരു പുതിയ ഉപകരണം ശരിയാക്കുക..."
+
+#: ../src/desktop.vala:203
+msgid "Bluetooth Settings…"
+msgstr "ബ്ലൂടൂത്ത് സജ്ജീകരണങ്ങള്‍..."
+
+#: ../src/phone.vala:43
+msgid "Bluetooth settings…"
+msgstr "ബ്ലൂടൂത്ത് സജ്ജീകരണങ്ങള്‍..."
+
+#: ../src/profile.vala:166
+msgid "Bluetooth"
+msgstr "ബ്ലൂടൂത്ത്"
