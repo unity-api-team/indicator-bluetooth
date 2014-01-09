@@ -1,0 +1,70 @@
+# Nepali translation for indicator-bluetooth
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the indicator-bluetooth package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-bluetooth\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-10-16 10:35+0000\n"
+"PO-Revision-Date: 2014-01-08 10:51+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Nepali <ne@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-09 05:37+0000\n"
+"X-Generator: Launchpad (build 16884)\n"
+
+#: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
+msgid "Whether or not to show the bluetooth indicator in the menu bar."
+msgstr "मेनु पट्टी मा ब्लुतुथ सूचक देखाउने या नदेखाउने।"
+
+#: ../src/bluez.vala:379
+msgid "Unknown"
+msgstr "अज्ञात"
+
+#: ../src/desktop.vala:97
+msgid "Connection"
+msgstr "जडान"
+
+#: ../src/desktop.vala:141
+msgid "Browse files…"
+msgstr "ब्राउज फाइल...."
+
+#: ../src/desktop.vala:145
+msgid "Send files…"
+msgstr "फाईलहरू पठाउने ..."
+
+#: ../src/desktop.vala:151
+msgid "Keyboard Settings…"
+msgstr "कुञ्जीपाटी सेटिङ ..."
+
+#: ../src/desktop.vala:157
+msgid "Mouse and Touchpad Settings…"
+msgstr "माउस र टचप्याद सेटिङ ..."
+
+#: ../src/desktop.vala:164
+msgid "Sound Settings…"
+msgstr "आवाज सेटिङहरू ..."
+
+#. settings section
+#: ../src/desktop.vala:201
+msgid "Set Up New Device…"
+msgstr "नयाँ यन्त्र राख्ने ..."
+
+#: ../src/desktop.vala:203
+msgid "Bluetooth Settings…"
+msgstr "ब्लुटुथ सेटिङहरू ..."
+
+#: ../src/phone.vala:43
+msgid "Bluetooth settings…"
+msgstr "ब्लुटुथ सेटिङहरू ..."
+
+#: ../src/profile.vala:166
+msgid "Bluetooth"
+msgstr "ब्लुटुथ"
+
+#~ msgid "Visible"
+#~ msgstr "देखिने"
