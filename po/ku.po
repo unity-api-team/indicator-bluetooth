@@ -1,0 +1,70 @@
+# Kurdish translation for indicator-bluetooth
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the indicator-bluetooth package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-bluetooth\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-10-16 10:35+0000\n"
+"PO-Revision-Date: 2014-09-17 17:37+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Kurdish <ku@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-09-18 07:09+0000\n"
+"X-Generator: Launchpad (build 17196)\n"
+
+#: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
+msgid "Whether or not to show the bluetooth indicator in the menu bar."
+msgstr "Li ser şiva menuyê nîşandan yan jî nîşannedana nîşaneya bluetoothê."
+
+#: ../src/bluez.vala:381
+msgid "Unknown"
+msgstr "Nenas"
+
+#: ../src/desktop.vala:97
+msgid "Connection"
+msgstr "Girêdan"
+
+#: ../src/desktop.vala:141
+msgid "Browse files…"
+msgstr "Li pelan bigere…"
+
+#: ../src/desktop.vala:145
+msgid "Send files…"
+msgstr "Pelan bişîne…"
+
+#: ../src/desktop.vala:151
+msgid "Keyboard Settings…"
+msgstr "Eyarên klavyeyê…"
+
+#: ../src/desktop.vala:157
+msgid "Mouse and Touchpad Settings…"
+msgstr "Eyarên mişkî û touchpadê"
+
+#: ../src/desktop.vala:164
+msgid "Sound Settings…"
+msgstr "Eyarên dengî…"
+
+#. settings section
+#: ../src/desktop.vala:201
+msgid "Set Up New Device…"
+msgstr "Cîhaza nû saz bike…"
+
+#: ../src/desktop.vala:203
+msgid "Bluetooth Settings…"
+msgstr "Eyarên Bluetoothê…"
+
+#: ../src/phone.vala:43
+msgid "Bluetooth settings…"
+msgstr "Eyarên Bluetoothê…"
+
+#: ../src/profile.vala:89 ../src/profile.vala:172
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#~ msgid "Visible"
+#~ msgstr "Xuya"
