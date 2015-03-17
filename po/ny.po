@@ -1,0 +1,70 @@
+# Chewa; Chichewa; Nyanja translation for indicator-bluetooth
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the indicator-bluetooth package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-bluetooth\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-10-16 10:35+0000\n"
+"PO-Revision-Date: 2015-03-16 14:23+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chewa; Chichewa; Nyanja <ny@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-03-17 05:38+0000\n"
+"X-Generator: Launchpad (build 17389)\n"
+
+#: ../data/com.canonical.indicator.bluetooth.gschema.xml.in.h:1
+msgid "Whether or not to show the bluetooth indicator in the menu bar."
+msgstr "Kuonetsa kapena kusaonetsa bluetooth pa Menu panu."
+
+#: ../src/bluez.vala:381
+msgid "Unknown"
+msgstr "Chosadziwika"
+
+#: ../src/desktop.vala:97
+msgid "Connection"
+msgstr "Lumikizanitsa"
+
+#: ../src/desktop.vala:141
+msgid "Browse files…"
+msgstr "Fufuzani mafailo..."
+
+#: ../src/desktop.vala:145
+msgid "Send files…"
+msgstr "Tumizani mafailo..."
+
+#: ../src/desktop.vala:151
+msgid "Keyboard Settings…"
+msgstr "Kokhonzela kasanjananidwe ka makiyi..."
+
+#: ../src/desktop.vala:157
+msgid "Mouse and Touchpad Settings…"
+msgstr "Kokhonzela Mouse ndi Touchpad"
+
+#: ../src/desktop.vala:164
+msgid "Sound Settings…"
+msgstr "Kokhonzela kamvekedwe"
+
+#. settings section
+#: ../src/desktop.vala:201
+msgid "Set Up New Device…"
+msgstr "Lumikizani makina ena...."
+
+#: ../src/desktop.vala:203
+msgid "Bluetooth Settings…"
+msgstr "Kokhonzekeletsa Bluetooth..."
+
+#: ../src/phone.vala:43
+msgid "Bluetooth settings…"
+msgstr "kokhonzekeletsa Bluetooth..."
+
+#: ../src/profile.vala:89 ../src/profile.vala:172
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#~ msgid "Visible"
+#~ msgstr "Maonekedwe"
