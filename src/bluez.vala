@@ -437,7 +437,10 @@ public class Bluez: Bluetooth, Object
 
   public void try_set_enabled (bool b)
   {
-    if (killswitch != null)
+    // If either the killswitch is already in the state we request it
+    // here to switch to or we don't have a killswitch at all we
+    // directly switch to setting the powered property for BlueZ.
+    if (killswitch != null && killswitch.blocked == b)
       {
         debug (@"setting killswitch blocked to $(!b)");
         killswitch.try_set_blocked (!b);
