@@ -1,10 +1,3 @@
-indicator-bluetooth (0.0.6+16.04.20160309-0ubuntu1~morphis1) vivid; urgency=medium
-
-  * Correctly check if killswitch already has the requested state and if yes
-    directly request BlueZ to switch the controller power state.
-
- -- Simon Fels <simon.fels@canonical.com>  Wed, 09 Mar 2016 08:33:15 +0100
-
 indicator-bluetooth (0.0.6+16.04.20160214-0ubuntu1) xenial; urgency=medium
 
   * Change the indicator's Bluez class to watch for 'org.bluez' to
