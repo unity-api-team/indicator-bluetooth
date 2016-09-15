@@ -1,3 +1,9 @@
+indicator-bluetooth (0.0.6+16.10.20160915.1-0ubuntu1) yakkety; urgency=medium
+
+  * Adding an systemd user session unit
+
+ -- Ted Gould <ted@gould.cx>  Thu, 15 Sep 2016 19:35:12 +0000
+
 indicator-bluetooth (0.0.6+16.10.20160526-0ubuntu1) yakkety; urgency=medium
 
   * Remove the "browse" action since there is no working backend (LP:
